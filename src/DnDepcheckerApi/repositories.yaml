@@ -1,0 +1,9 @@
+repoConfig:
+  schedule: "* * * * *"
+  credentials:
+    - name: ""
+      username: ""
+      password: ""
+  repositories:
+    - name: ""
+      url: 
